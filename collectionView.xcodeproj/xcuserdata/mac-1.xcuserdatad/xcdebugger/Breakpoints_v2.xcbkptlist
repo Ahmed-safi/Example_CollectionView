@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD91B4BA-B5F3-4BBA-8AB0-C143F3BC6CD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "collectionView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4 - b66c3c968776c2b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionView.ViewController.collectionView.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "collectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/collectionView/collectionView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4 - 2c32130153d0d2a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionView.ViewController.collectionView.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "collectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/collectionView/collectionView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4 - b1ec8a5b29ba514c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionView.ViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "collectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/collectionView/collectionView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4 - b172f3c6620134d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionView.ViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "collectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/collectionView/collectionView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4 - 7ce1d8698fec09ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionView.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; collectionView.ViewController"
+                  moduleName = "collectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/collectionView/collectionView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "5B91E5A4-3102-494B-B5C6-F4F8D9C725F4 - 3879b74986b92a32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionView.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;collectionView.ViewController&gt;"
+                  moduleName = "collectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/collectionView/collectionView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
